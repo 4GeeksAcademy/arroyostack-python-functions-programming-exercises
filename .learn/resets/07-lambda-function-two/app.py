@@ -1,4 +1,3 @@
-rapid = lambda str: str[:-1]
 
 
 
